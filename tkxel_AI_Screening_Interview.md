@@ -58,7 +58,7 @@ I try to make my code readable by keeping it modular and using descriptive varia
 
 Notes:
 
-* Good structure (modularity → naming → comments → review).
+* Good structure (modularity > naming > comments > review).
 * Improvement: avoid making AI sound like primary reviewer; keep it as *secondary feedback tool*.
 * Missing: mention of breaking code into functions/modules (this is actually your strength from projects).
 
