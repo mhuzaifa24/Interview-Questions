@@ -44,7 +44,7 @@ To contribute:
 
 1. Fork this repository.
 2. Create a new Markdown file using `TEMPLATE.md`.
-3. Name the file after the company (for example, `Tkxel.md`).
+3. Name the file using the format `<CompanyName>_<InterviewType>.md` (for example, `Tkxel_AI_Screening_Interview.md`).
 4. Fill in your interview experience.
 5. Open a Pull Request.
 
